@@ -1,6 +1,5 @@
 <h2>
   Olá, eu sou o Cauã
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="" />
 </h2>
 
 <p align="center">
